@@ -84,7 +84,6 @@ let sA1 = sum (testArray[0], testArray [1])
 let sA2 = sum(sA1[0],testArray[2])
 return [sA2[0],`${testArray[0]},${testArray[1]},${testArray[2]} was passed in as an array of numbers, and ${sA2[0]} is their sum.`]
 
-  //eslint-disable-line
 }
 
 // Here is the test for sumArray(); uncomment it to run it
