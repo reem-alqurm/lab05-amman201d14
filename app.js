@@ -82,7 +82,7 @@ let testArray = [2, 3, 4]; //eslint-disable-line
 function sumArray(sumArr) {
 
 }
-
+// added to main
 // Here is the test for sumArray(); uncomment it to run it
 
 // testSumArray(testArray);
